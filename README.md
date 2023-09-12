@@ -1,2 +1,2 @@
 # GOLANG POSTGRE
-CRUD CLI
+Latihan go database : crud cli
