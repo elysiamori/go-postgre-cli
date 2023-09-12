@@ -1,2 +1,2 @@
 # Golang PostgreSQL
-Latihan go database : crud cli
+Project : CRUD CLI
